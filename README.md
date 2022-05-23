@@ -17,3 +17,14 @@ This is a repository which consists of the following:
 - Once the Project is opened in CodeBlocks IDE:
 	- `Build` the Project (`Ctrl+F9`)
 	- Set the Build Target to `Movie_Booking` and `Run` the Project
+
+## Pre-Requisites
+- `CMake`
+- `mingw-gcc`
+- `CodeBlocks` IDE
+
+## Test Environment
+- cmake `3.18.2` was used
+- mingw-gcc `8.1.0` was used
+- CodeBlocks IDE `20.03` was used
+- `C11` stds used to build and run the project
